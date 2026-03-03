@@ -8,6 +8,6 @@ Original file is located at
 """
 
 a = 6
-b = 7
+b = 8
 c = (a+b)*(a-b)+(a*b)
 print(c)
